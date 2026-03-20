@@ -1,2 +1,3 @@
-# core-weather-app-kkwt
-Automated issue comment bot repository
+# Core Weather App Kkwt
+
+Automated issue comment bot repository.
